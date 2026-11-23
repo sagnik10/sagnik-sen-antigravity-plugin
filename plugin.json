@@ -1,0 +1,18 @@
+{
+  "name": "sagnik-sen-plugin",
+  "displayName": "Sagnik Sen Portfolio & Repo Standards",
+  "version": "1.0.0",
+  "description": "Encodes Sagnik Sen's editorial-scientific web theme, standardized GitHub repository layout, CI/CD workflows, and Python analytics conventions.",
+  "author": {
+    "name": "Sagnik Sen",
+    "url": "https://github.com/sagnik10"
+  },
+  "homepage": "https://sagnik10.github.io/SagnikSenPortfolio/",
+  "repository": "https://github.com/sagnik10/sagnik-sen-antigravity-plugin",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Apply Sagnik Sen's standardized README header, topics, and CI workflow to this repository",
+    "Style this web app using Sagnik's editorial-scientific CSS theme and prepare it for GitHub Pages",
+    "Scaffold a new Python analytics pipeline matching Sagnik's portfolio conventions"
+  ]
+}
